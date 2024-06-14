@@ -26,7 +26,7 @@ const ProductsPage = dynamic(
   { ssr: false }
 );
 
-export default function Home() {
+export default function CatchAll() {
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {

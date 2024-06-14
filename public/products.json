@@ -1,0 +1,82 @@
+[
+  {
+    "Id": "1",
+    "Picture": "photo1.png",
+    "Name": "Mouton",
+    "Price": "7",
+    "Description": "7.5x8.5cm / 80g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "2",
+    "Picture": "photo2.png",
+    "Name": "Boite de sardines",
+    "Price": 9,
+    "Description": "11x6.5cm / 110g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "3",
+    "Picture": "photo3.png",
+    "Name": "Poulette",
+    "Price": "7",
+    "Description": "7.5x6cm / 80g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "5",
+    "Picture": "photo5.png",
+    "Name": "Mr Renard",
+    "Price": 8,
+    "Description": "11x12cm / 110g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "6",
+    "Picture": "photo6.png",
+    "Name": "Lapin Ori",
+    "Price": 8,
+    "Description": "13x11cm / 110g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "7",
+    "Picture": "photo7.png",
+    "Name": "JADE la Licorne",
+    "Price": 8,
+    "Description": "13x12cm / 110g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "8",
+    "Picture": "photo8.png",
+    "Name": "Lapin Astronaute",
+    "Price": 11,
+    "Description": "15x9cm / 150g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "9",
+    "Picture": "photo9.png",
+    "Name": "Fusée",
+    "Price": 11,
+    "Description": "9x15cm / 150g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "10",
+    "Picture": "photo10.png",
+    "Name": "Oeufs",
+    "Price": 9,
+    "Description": "Vague/lisse - 13cm / 120g",
+    "Category": "chocolats"
+  },
+  {
+    "Id": "11",
+    "Picture": "photo11.png",
+    "Name": "Oeufs",
+    "Price": 13,
+    "Description": "Etoile/vagues/fleur - 13cm / 110g",
+    "Category": "chocolats"
+  }
+]
